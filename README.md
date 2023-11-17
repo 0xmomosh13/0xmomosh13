@@ -34,6 +34,11 @@ I love crafting efficient, scalable, and maintainable code, and I'm always eager
 ## 🌐 Socials
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/smohit.eth) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/) | [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://www.x.com/mohitshi13) | 📧 [Email](mailto:mohitshi@icloud.com)
 
+
+## 📈 GitHub Stats
+
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=[icymojitoo]&show_icons=true&theme=radical)
+
 ---
 
 Thank you for visiting my profile! Feel free to reach out via email or connect with me on LinkedIn!
