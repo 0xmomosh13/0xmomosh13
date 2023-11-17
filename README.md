@@ -1,30 +1,14 @@
 # Mohit Shrivastava
 
-## Socials
+- Socials: [Instagram](https://www.instagram.com/smohit.eth) | [LinkedIn](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/) | [X](https://www.x.com/mohitshi13) | [Email](mohitshi@icloud.com)
 
-- [Instagram](https://www.instagram.com/smohit.eth)
-- [LinkedIn](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/)
-- [X](https://www.x.com/mohitshi13)
-- [Email]()
-
-## Tools I Love
-
-- Neovim
-- Kitty
-- Tmux
-- Docker
+- Tools I Love: Neovim | Kitty | Tmux | Docker
 
 ## Stack
 
-- Django
-- NextJS
-- Terraform
-- FastAPI
-- Flask
-- Vite
-
-### Beginner
-
-- Consul
-- Nomad
+- Backend: Django | FastAPI | Flask
+- Frontend: NextJS | Vite
+- CICD: Terraform
+- Web3: Alchemy
+- Currently Learning: Consul | Nomad
 
