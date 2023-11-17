@@ -7,37 +7,32 @@ I love crafting efficient, scalable, and maintainable code, and I'm always eager
 ## 🛠️ My Tech Stack
 
 ### 🐍 Languages and Frameworks
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js) | ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
 - ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity)
 
 ### 🛠 Tools and Platforms
 - **Editors** - ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=Neovim&logoColor=white)
-- **Terminal** - ![Kitty](https://img.shields.io/badge/-Kitty-FFD700?style=flat&logo=Kitty&logoColor=black) | ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat&logo=Tmux&logoColor=white)
+- **Terminal** - ![Kitty](https://img.shields.io/badge/-Kitty-FFD700?style=flat&logo=Kitty&logoColor=black) ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat&logo=Tmux&logoColor=white)
 - **Containerization** - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 - **Schedulers** - ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=Celery&logoColor=white)
-- **CICD** - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible)| ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
+- **CICD** - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=Terraform) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)
 
 ### 💾 Databases
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🚀 Backing Services
-- ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=Apache-Kafka) | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white) | ![AWS SQS](https://img.shields.io/badge/-AWS_SQS-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)
+- ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=Apache-Kafka) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white) ![AWS SQS](https://img.shields.io/badge/-AWS_SQS-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)
 
 ### 🌐 Web3
-- ![Alchemy](https://img.shields.io/badge/-Alchemy-000000?style=flat&logo=Alchemy&logoColor=white) | Hardhat | Web3.py
+- ![Alchemy](https://img.shields.io/badge/-Alchemy-000000?style=flat&logo=Alchemy&logoColor=white) Hardhat Web3.py
 
 ### 📘 Currently Learning
-- ![Consul](https://img.shields.io/badge/-Consul-F24C53?style=flat&logo=Consul&logoColor=white) | Nomad | Harness
+- ![Consul](https://img.shields.io/badge/-Consul-F24C53?style=flat&logo=Consul&logoColor=white) Nomad Harness
 
 
 ## 🌐 Socials
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/smohit.eth) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/) | [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://www.x.com/mohitshi13) | 📧 [Email](mailto:mohitshi@icloud.com)
-
-
-## 📈 GitHub Stats
-
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=[icymojitoo]&show_icons=true&theme=radical)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/smohit.eth) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/) [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://www.x.com/mohitshi13) 📧 [Email](mailto:mohitshi@icloud.com)
 
 ---
 
