@@ -7,8 +7,8 @@ I love crafting efficient, scalable, and maintainable code, and I'm always eager
 ## 🛠️ My Tech Stack
 
 ### 🐍 Languages and Frameworks
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)(https://www.python.org) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)(https://www.djangoproject.com) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI)(https://fastapi.tiangolo.com) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)(https://flask.palletsprojects.com/en/3.0.x/)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)(https://www.javascript.com) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)(https://www.typescriptlang.org) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)(https://nextjs.org) ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)(https://expressjs.com)
 - ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=Solidity)
 
 ### 🛠 Tools and Platforms
