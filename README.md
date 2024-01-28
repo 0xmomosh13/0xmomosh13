@@ -17,10 +17,6 @@ Welcome to my GitHub! I'm a passionate developer specializing in full-stack deve
     <a href="https://rust-lang.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png"/> </a>
 </p>
 
-<p>
-<a href="[Top Langs](https://github.com/anuraghazra/github-readme-stats)"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icymojitoo&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> </a>
-</p>
-
 ## 🛠️ My Tech Stack
 
 - **Languages and Frameworks** - [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)](https://www.djangoproject.com) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI)](https://fastapi.tiangolo.com) [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)](https://flask.palletsprojects.com/en/3.0.x/) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)](https://nextjs.org) [![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)](https://expressjs.com)
@@ -38,8 +34,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in full-stack deve
 ---
 
  <p align="left">
-    <a href="[Github stats](https://github-readme-stats.vercel.app/)"> <img src="https://github-readme-stats.vercel.app/api?username=icymojitoo&theme=highcontrast&show_icons=true&hide_border=true&count_private=true"/> </a>
-    <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=icymojitoo&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
+   <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=icymojitoo&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
 </p>
 
 ---
