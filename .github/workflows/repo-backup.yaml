@@ -3,37 +3,32 @@ on:
   push:
     branches:
       - master
+      - stage
+      - dev
 jobs:
   s3Backup:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      # Step to extract the branch name
       - name: Extract branch name
         id: extract_branch
         shell: bash
         run: echo "::set-output name=branch::$(echo ${GITHUB_REF#refs/heads/})"
-
-      # Step to extract just the repository name
       - name: Extract repository name
         id: extract_repo
         shell: bash
         run: echo "::set-output name=repo::$(echo ${{ github.repository }} | cut -d'/' -f2)"
-
       - name: S3 Backup
-        uses: peter-evans/s3-backup@v1
+        uses: icymojitoo/s3-backup@v1
         env:
           STORAGE_SERVICE_URL: ${{ secrets.BACKUPS_BUCKET_STORAGE_SERVICE_URL }}
           ACCESS_KEY_ID: ${{ secrets.BACKUPS_BUCKET_ACCESS_KEY_ID }}
           SECRET_ACCESS_KEY: ${{ secrets.BACKUPS_BUCKET_SECRET_ACCESS_KEY }}
-          # Use the extracted repository and branch names in the MIRROR_TARGET
           MIRROR_TARGET: ${{ secrets.BACKUPS_BUCKET_MIRROR_TARGET }}/${{ steps.extract_repo.outputs.repo }}/${{ steps.extract_branch.outputs.branch }}
         with:
           args: --overwrite --remove
-
       - name: Notify Discord
-        uses: tsickert/discord-webhook@v5.3.0
+        uses: icymojitoo/discord-webhook@v1
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
           content: |
