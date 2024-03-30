@@ -1,12 +1,3 @@
-# 👋 Hi, I'm Mohit Shrivastava!
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/icymojitoo/count.svg" />
-</p>
-
-
 <p align="left">
    <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=icymojitoo&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
 </p>
@@ -19,6 +10,7 @@
     <a href="https://rust-lang.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png"/> </a>
 </p>
 
+---
 ## 🛠️ My Tech Stack
 
 - **Languages and Frameworks** - [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)](https://www.djangoproject.com) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI)](https://fastapi.tiangolo.com) [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)](https://flask.palletsprojects.com/en/3.0.x/) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)](https://nextjs.org) [![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)](https://expressjs.com)
@@ -38,3 +30,8 @@
 ## **🌐 Socials**
 - 📧 Email: [mohit@momosh13.com](mailto:mohit@momosh13.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/)
+---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/icymojitoo/count.svg" />
+</p>
