@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Mohit Shrivastava!
 
-Welcome to my GitHub! I'm a passionate developer specializing in full-stack development, with a keen interest in the evolving world of AI. I love crafting efficient, scalable, and maintainable code, and I'm always eager to learn and apply new technologies.
-
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/icymojitoo/count.svg" />
 </p>
 
+
+<p align="left">
+   <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=icymojitoo&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
+</p>
 
 <p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/python.png"/> </a> 
@@ -31,12 +33,8 @@ Welcome to my GitHub! I'm a passionate developer specializing in full-stack deve
 - **🌐 Web3** - [![Alchemy](https://img.shields.io/badge/-Alchemy-000000?style=flat&logo=Alchemy&logoColor=white)](https://www.alchemy.com) [Hardhat](https://hardhat.org) [Web3.py](https://web3py.readthedocs.io/en/stable/)
 
 
----
-
- <p align="left">
-   <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=icymojitoo&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
-</p>
 
 ---
 ## **🌐 Socials**
-Feel free to reach out via 📧 Email: [mohit@momosh13.com](mailto:mohit@momosh13.com) or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/)
+- 📧 Email: [mohit@momosh13.com](mailto:mohit@momosh13.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/)
