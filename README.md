@@ -27,7 +27,6 @@
 
 
 
----
 ## **🌐 Socials**
 - 📧 Email: [mohit@momosh13.com](mailto:mohit@momosh13.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/)
