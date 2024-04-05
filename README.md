@@ -1,5 +1,5 @@
 <p align="left">
-   <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=icymojitoo&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
+   <a href="[Github streak](https://git.io/streak-stats)"> <img src="https://github-readme-streak-stats.herokuapp.com?user=0xmomosh13&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats"/> </a>
 </p>
 
 ## 🛠️ My Tech Stack
@@ -34,5 +34,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/icymojitoo/count.svg" />
+  <img src="https://profile-counter.glitch.me/0xmomosh13/count.svg" />
 </p>
