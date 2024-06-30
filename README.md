@@ -23,13 +23,12 @@
 - **CICD** - [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible)](https://www.ansible.com)  [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)](https://github.com/features/actions)
 - **💾 Databases** - [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
 - **🚀 Backing Services** - [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)](https://redis.io) [![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=Apache-Kafka)](https://kafka.apache.org) [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white)](https://www.rabbitmq.com/download.html) [![AWS SQS](https://img.shields.io/badge/-AWS_SQS-FF9900?style=flat&logo=Amazon-AWS&logoColor=white)](https://aws.amazon.com/sqs/)
-- **🌐 Web3** - [![Alchemy](https://img.shields.io/badge/-Alchemy-000000?style=flat&logo=Alchemy&logoColor=white)](https://www.alchemy.com) [Hardhat](https://hardhat.org) [Web3.py](https://web3py.readthedocs.io/en/stable/)
+- **🌐 Web3** - [![Alchemy](https://img.shields.io/badge/-Alchemy-000000?style=flat&logo=Alchemy&logoColor=white)](https://www.alchemy.com)
 
 
 
 ## **🌐 Socials**
-- 📧 Email: [mohit@momosh13.com](mailto:mohit@momosh13.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohit-shrivastava-4aa137133/)
+- 📧 Email: [mohit@inferon.ai](mailto:mohit@inferon.ai)
 
 
 <p align="center"> 
